@@ -1,0 +1,16 @@
+{
+    "name": "digitize",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "develop": "npx tailwindcss -i ./src/css/tailwind.css -o ./public/build/tailwind.css --watch",
+        "production": "npx tailwindcss -i ./src/css/tailwind.css -o ./public/build/tailwind.css --minify"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "tailwindcss": "^3.4.4"
+    }
+}
