@@ -4,10 +4,13 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                sans: ["YekanBakh-Regular"]
-            }
+                sans: ["YekanBakh-Regular"],
+            },
         },
     },
-    plugins: [],
+    plugins: [
+        require("@tailwindcss/forms"),
+        // ...
+    ],
 };
 
