@@ -27,6 +27,64 @@
     font-weight: bolder;
 }
 
+/* eot */
+@font-face {
+    font-family: 'YekanBakh-Regular';
+    src: url('../../assets/fonts/YekanBakh-Regular.eot') format('eot');
+    font-style: normal;
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'YekanBakh-Medium';
+    src: url('../../assets/fonts/YekanBakh-Medium.eot') format('eot');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'YekanBakh-SemiBold';
+    src: url('../../assets/fonts/YekanBakh-SemiBold.eot') format('eot');
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'YekanBakh-Bold';
+    src: url('../../assets/fonts/YekanBakh-Bold.eot') format('eot');
+    font-style: normal;
+    font-weight: bolder;
+}
+
+/* woff */
+@font-face {
+    font-family: 'YekanBakh-Regular';
+    src: url('../../assets/fonts/YekanBakh-Regular.woff') format('woff');
+    font-style: normal;
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'YekanBakh-Medium';
+    src: url('../../assets/fonts/YekanBakh-Medium.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'YekanBakh-SemiBold';
+    src: url('../../assets/fonts/YekanBakh-SemiBold.woff') format('woff');
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'YekanBakh-Bold';
+    src: url('../../assets/fonts/YekanBakh-Bold.woff') format('woff');
+    font-style: normal;
+    font-weight: bolder;
+}
+
 /* woff2 */
 @font-face {
     font-family: 'YekanBakh-Regular';
